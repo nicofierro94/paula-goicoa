@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/paula-goicoa/static/css/main.12cd1c78.css",
+    "main.js": "/paula-goicoa/static/js/main.e23c88f5.js",
+    "static/js/453.8c9e7e87.chunk.js": "/paula-goicoa/static/js/453.8c9e7e87.chunk.js",
+    "static/media/map3.png": "/paula-goicoa/static/media/map3.3a32101482640b48f2db.png",
+    "static/media/samantha-gades-gKjLLN1T8HQ-unsplash.jpg": "/paula-goicoa/static/media/samantha-gades-gKjLLN1T8HQ-unsplash.49c796d1e083f677bcd9.jpg",
+    "static/media/logo.png": "/paula-goicoa/static/media/logo.fcccca8292ba8ba44aab.png",
+    "static/media/author.png": "/paula-goicoa/static/media/author.8fb87b998b7fe8cc8393.png",
+    "index.html": "/paula-goicoa/index.html",
+    "main.12cd1c78.css.map": "/paula-goicoa/static/css/main.12cd1c78.css.map",
+    "main.e23c88f5.js.map": "/paula-goicoa/static/js/main.e23c88f5.js.map",
+    "453.8c9e7e87.chunk.js.map": "/paula-goicoa/static/js/453.8c9e7e87.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12cd1c78.css",
+    "static/js/main.e23c88f5.js"
+  ]
+}
