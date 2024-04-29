@@ -1495,7 +1495,8 @@ html {
 }
 
 .w-24 {
-  width: 6rem;
+  /* width: 6rem; */
+  width: 20rem;
 }
 
 .w-3\/4 {
@@ -2626,6 +2627,12 @@ html {
 
 @media (min-width: 1024px) {
 
+  .lg\:justify-between {
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+  }
+
   .lg\:ml-5 {
     margin-left: 1.25rem;
   }
@@ -2675,7 +2682,8 @@ html {
   }
 
   .lg\:w-48 {
-    width: 12rem;
+    /* width: 12rem; */
+    width: 20rem;
   }
 
   .lg\:w-full {

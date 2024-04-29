@@ -29,9 +29,10 @@ function App() {
                   }">
 
         <div class="w-full z-50 top-0 py-3 sm:py-5  absolute">
-          <div class="container flex items-center justify-between">
+          <div class="container flex items-center justify-center lg:justify-between">
             <div>
               <a href="/">
+                {/* <img src={logo} class="w-24 lg:w-48" alt="logo" /> */}
                 <img src={logo} class="w-24 lg:w-48" alt="logo" />
               </a>
             </div>
